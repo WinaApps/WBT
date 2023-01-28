@@ -1,12 +1,12 @@
 **Privacy Policy**
 
-WinaApps built the Winabettips Predictz app as a Free app. This SERVICE is provided by WinaApps at no cost and is intended for use as is.
+WinaApps built the Winabettips Predictions app as a Free app. This SERVICE is provided by WinaApps at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Winabettips Predictz unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Winabettips Predictions unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
@@ -62,5 +62,6 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 This policy is effective as of 2021-07-05
 
 **Contact Us**
-
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at winabetty@gmail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at machoparto@gmail.com.                     
+                    
+This document was last updated on January 28, 2023 
